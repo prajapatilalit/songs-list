@@ -4,12 +4,10 @@ import SongsList from "./SongsList";
 
 const App = () => {
   return (
-    <div
-      style={{ padding: "20px", backgroundColor: "#ce5c62", height: "100vh" }}
-    >
-      <h2 className="ui center aligned icon header">
-        <i className="music icon"></i>
-        Song List
+    <div className="list_container">
+      <h2 className="ui center aligned icon header ">
+        <i className="music icon h-icon"></i>
+        <span className="span_text">Song List</span>
       </h2>
       <div className="ui container grid segment">
         <div className="ui row">

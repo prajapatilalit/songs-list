@@ -7,7 +7,7 @@ const SongDetail = ({ song }) => {
   }
   return (
     <div className="ui segment">
-      <h3>Detail for :-</h3>
+      <h3>Song Details</h3>
       <p>
         <strong>Title : </strong> {song.title}
         <br />
