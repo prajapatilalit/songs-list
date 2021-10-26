@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.list_container {
+  padding: 20px;
+  background-color: #628395;
+  height: 100vh;
+}
+
+.h-icon {
+  color: rgb(110, 100, 255);
+}
+.span_text {
+  color: #fff;
+  text-transform: uppercase;
+}
